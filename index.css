@@ -32,3 +32,11 @@ button {
     margin: auto;
     margin-top: 40px;
 }
+
+#resetBtn {
+    display: none;
+    margin: auto;
+    border: 2px solid lightcoral;
+    background-color: transparent;
+    color: lightcoral;
+}
